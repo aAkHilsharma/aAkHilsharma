@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/iam_akhil_01" target="blank"><img src="https://img.shields.io/twitter/follow/iam_akhil_01?logo=twitter&style=for-the-badge" alt="iam_akhil_01" /></a> </p>
 
-- 🔭 I’m currently working on **i-NoteBook**
+- 🔭 I’m currently working on **Dev-Connector**
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **Mern, Tailwind**
 
-- 💬 Ask me about **Java-script, Java**
+- 💬 Ask me about **Java-script, React, Java**
 
 - 📫 How to reach me **akhilsharma6721@gmail.com**
-
-- ⚡ Fun fact **I am a self-taught developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
