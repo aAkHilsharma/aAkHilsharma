@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Dev-Connector**
 
-- 🌱 I’m currently learning **Mern, Tailwind**
+- 🌱 I’m currently learning **Mern, Scss**
 
 - 💬 Ask me about **Java-script, React, Java**
 
