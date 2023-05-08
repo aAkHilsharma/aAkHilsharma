@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iam_akhil_01" target="blank"><img src="https://img.shields.io/twitter/follow/iam_akhil_01?logo=twitter&style=for-the-badge" alt="iam_akhil_01" /></a> </p>
 
-- 🔭 I’m currently working on **Dev-Connector**
+- 🔭 I’m currently working on **Newsletter Signup**
 
-- 🌱 I’m currently learning **Mern, Scss**
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **Java-script, React, Java**
 
