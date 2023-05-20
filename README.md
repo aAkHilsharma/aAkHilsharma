@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iam_akhil_01" target="blank"><img src="https://img.shields.io/twitter/follow/iam_akhil_01?logo=twitter&style=for-the-badge" alt="iam_akhil_01" /></a> </p>
 
-- 🔭 I’m currently working on **Newsletter Signup**
+- 🔭 I’m currently working on **Keeper App**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Java-script, React, Java**
+- 💬 Ask me about **Java-script, React, MongoDB, Express, Node**
 
 - 📫 How to reach me **akhilsharma6721@gmail.com**
 
