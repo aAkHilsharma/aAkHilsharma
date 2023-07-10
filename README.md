@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iam_akhil_01" target="blank"><img src="https://img.shields.io/twitter/follow/iam_akhil_01?logo=twitter&style=for-the-badge" alt="iam_akhil_01" /></a> </p>
 
-- 🔭 I’m currently working on **WorkForce**
+- 🔭 I’m currently working on **Netflix clone UI**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Java-script, React, MongoDB, Express, Node**
 
