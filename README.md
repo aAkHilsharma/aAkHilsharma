@@ -20,7 +20,6 @@ I'm an indie software developer, on a continuos path of self improvement and gro
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-#
 
 ### 📊 Stats
 
@@ -30,6 +29,5 @@ I'm an indie software developer, on a continuos path of self improvement and gro
 
 #
 
-<details>
  <summary><h3>👨‍💻 Akhil's Coding Journey</h3></summary>
    I started my coding journey as a naive computer engineering student with a passion to learn everything I could about this programming world - code, Unix, Linux, and theory. All the while, I was teaching myself web development with a dream to build my own website, driven by a burning curiosity to understand how websites are built. My coding journey has just begun, and I'm constantly learning by building projects. Join me as I explore the ever-evolving landscape of technology and creativity.
