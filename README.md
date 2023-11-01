@@ -2,7 +2,7 @@
 
 ** `Digital Craftsman (Web/Andriod/IOS)`**
 
-I'm an indie software developer, on a continuos path of self improvement and growth. I'm constantly expanding my knowledge by building innovative projects and cool clones and diving deep into latest technologies. Learning is at the heart of everything I do, and I'm excited to share my journey with you. Feel free to explore my repositories and join me as I navigate the ever-evolving landscape of technology and creativity.
+I'm a software developer, on a continuos path of self improvement and growth. I'm constantly expanding my knowledge by building innovative projects and cool clones and diving deep into latest technologies. Learning is at the heart of everything I do, and I'm excited to share my journey with you. Feel free to explore my repositories and join me as I navigate the ever-evolving landscape of technology and creativity.
 
 ---
 
