@@ -1,6 +1,6 @@
 # 🙂 Akhil Sharma
 
-** `Digital Craftsman (Web/Andriod/IOS)`**
+** `Software Engineer | Game Enthusiast`**
 
 I'm a software developer, on a continuos path of self improvement and growth. I'm constantly expanding my knowledge by building innovative projects and cool clones and diving deep into latest technologies. Learning is at the heart of everything I do, and I'm excited to share my journey with you. Feel free to explore my repositories and join me as I navigate the ever-evolving landscape of technology and creativity.
 
@@ -26,8 +26,3 @@ I'm a software developer, on a continuos path of self improvement and growth. I'
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aAkHilsharma&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
- <summary><h3>👨‍💻 Akhil's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer engineering student with a passion to learn everything I could about this programming world - code, Unix, Linux, and theory. All the while, I was teaching myself web development with a dream to build my own website, driven by a burning curiosity to understand how websites are built. My coding journey has just begun, and I'm constantly learning by building projects. Join me as I explore the ever-evolving landscape of technology and creativity.
